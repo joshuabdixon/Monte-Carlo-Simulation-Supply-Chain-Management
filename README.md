@@ -63,6 +63,6 @@ Based on the simulation results, I identified recommendations for improving supp
   - Consider segmenting products based on their stockout profile and adjusting inventory strategies accordingly.
 
 ## Summary
-This repository demonstrates how Monte Carlo simulation can be used to optimise supply chain management by addressing uncertainties in demand, transportation, and supply disruptions. The approach outlined here reflects my capability to define problem statements, set objectives, select statistical techniques, and derive actionable insights for business operations.
+The Monte Carlo simulation proved valuable for modelling supply chain variability and identifying areas for improvement. This repository demonstrates my ability to create and analyse complex simulations, providing actionable insights for supply chain optimisation.
 
-Explore the code and scenarios to understand my approach to solving complex supply chain challenges with statistical analysis and simulation. If you have any questions or would like to discuss opportunities, please feel free to contact me.
+Feel free to explore the code and simulation results to understand my approach. If you have any questions or would like to discuss job opportunities, please contact me.
